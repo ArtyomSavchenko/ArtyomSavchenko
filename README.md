@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Artyom Savchenko 👋
 
-<!--
-**ArtyomSavchenko/ArtyomSavchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm the maintainer of the [Huly platform](https://github.com/hcengineering/platform) — a modern, extensible platform for collaboration and productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Open to Collaboration
+I'm interested in connecting with:
+- Developers and teams who want to onboard to Huly
+- Anyone with questions about Huly or looking for help solving problems
+- Projects and organizations interested in integration or collaboration
+- Companies considering a self-hosted Huly deployment
+- ...and anyone passionate about open, flexible platforms
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/artyomsavchenko)
+- Email: artem@hardcoreeng.com
+
+Let's build something great together 🚀
+
